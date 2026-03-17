@@ -150,12 +150,12 @@ HTTP를 출발점으로 웹의 기본 원리를 이해하고,
 | Day 3 | 섹션 3. HTTP 기본 | 클라이언트-서버 구조 | 역할 분리와 책임 | 박재석 |  |
 | Day 3 | 섹션 3. HTTP 기본 | Stateful / Stateless | 상태 관리 개념과 HTTP 특성 | 서호준 |  |
 | Day 3 | 섹션 3. HTTP 기본 | HTTP 메시지 | 요청/응답 메시지 구조 | 윤혜민 |  |
-| Day 4 | 섹션 4. HTTP 메서드 | HTTP API 개요 | URI와 메서드 역할 분리 |  |  |
-| Day 4 | 섹션 4. HTTP 메서드 | GET / POST | 조회와 생성 메서드 |  |  |
-| Day 4 | 섹션 4. HTTP 메서드 | PUT / PATCH / DELETE | 수정과 삭제 메서드 |  |  |
-| Day 5 | 섹션 4. HTTP 메서드 | HTTP 메서드 속성 | 안전성, 멱등성, 캐시 |  |  |
-| Day 5 | 섹션 4. HTTP 메서드 | 데이터 전송 방식 | Query, Path, Body(JSON) |  |  |
-| Day 5 | 섹션 4. HTTP 메서드 | HTTP API 설계 예시 | RESTful API 설계 실습 |  |  |
+| Day 4 | 섹션 4. HTTP 메서드 | HTTP API 개요 | URI와 메서드 역할 분리 | 박채린 |  |
+| Day 4 | 섹션 4. HTTP 메서드 | GET / POST | 조회와 생성 메서드 | 신현섭 |  |
+| Day 4 | 섹션 4. HTTP 메서드 | PUT / PATCH / DELETE | 수정과 삭제 메서드 | 김호현 |  |
+| Day 5 | 섹션 4. HTTP 메서드 | HTTP 메서드 속성 | 안전성, 멱등성, 캐시 | 권성주 |  |
+| Day 5 | 섹션 4. HTTP 메서드 | 데이터 전송 방식 | Query, Path, Body(JSON) | 박국현 |  |
+| Day 5 | 섹션 4. HTTP 메서드 | HTTP API 설계 예시 | RESTful API 설계 실습 | 김다은 |  |
 | Day 6 | 섹션 5. Digital Transformation | DX 개요 | 백엔드 개발자가 DX를 이해해야 하는 이유 |  |  |
 | Day 6 | 섹션 5. Digital Transformation | 온프레미스 vs 클라우드 | 인프라 환경 변화 이해 |  |  |
 | Day 6 | 섹션 5. Digital Transformation | AWS 역할 | EC2, S3, RDS 개념적 이해 |  |  |
